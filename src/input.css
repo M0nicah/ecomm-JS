@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre&family=Pontano+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tiro+Devanagari+Sanskrit&display=swap');
+
+.font{
+    font-family: 'Pontano Sans', sans-serif;
+}
+.fon{
+    font-family: 'Tiro Devanagari Sanskrit', serif;
+}
