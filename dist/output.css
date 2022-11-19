@@ -676,6 +676,16 @@ video {
   color: rgb(255 255 255 / var(--tw-text-opacity));
 }
 
+.text-deep_teal-800 {
+  --tw-text-opacity: 1;
+  color: rgb(8 32 30 / var(--tw-text-opacity));
+}
+
+.text-deep_teal-900 {
+  --tw-text-opacity: 1;
+  color: rgb(6 26 25 / var(--tw-text-opacity));
+}
+
 .font{
   font-family: 'Pontano Sans', sans-serif;
 }
